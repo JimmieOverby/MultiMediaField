@@ -1,0 +1,16 @@
+autoplay=0
+autoload=1
+showstop=1
+showvolume=1
+showtime=1
+showfullscreen=1
+onclick=playpause
+ondoubleclick=fullscreen
+volume=50
+loadonstop=1
+showloading=autohide
+showmouse=autohide
+showiconplay=1
+iconplaycolor=white
+iconplaybgcolor=black
+iconplaybgalpha=80
